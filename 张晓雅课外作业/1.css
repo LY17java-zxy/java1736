@@ -1,0 +1,22 @@
+
+#di{
+    font-size: 20px;
+   font-family: 华文隶书;
+}
+#p {
+    font-size: 20px;
+    font-family: 华文隶书;
+}
+.d{
+  background-color: aqua;
+    font-size: 20px;
+    font-family: 微软雅黑;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+}
+div{
+    border: 2px;
+    width: 300px;
+    height: 200px;
+    margin: 0px auto;
+}
